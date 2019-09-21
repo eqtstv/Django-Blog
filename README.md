@@ -1,3 +1,3 @@
 # Django Blog Project
 
-Features:
+Features: expanding...
