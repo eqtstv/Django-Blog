@@ -71,6 +71,10 @@ body {
   background-color: #fafafa;
 }
 
+.asteriskField {
+  display: none;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
