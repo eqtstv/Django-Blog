@@ -7,5 +7,5 @@ Features:
 - add new post (if logged in)
 - register and login
 - profile view with update info and upload profile picture
-- pagination – 5 posts on one page
+- pagination
 - default profile picture for users
